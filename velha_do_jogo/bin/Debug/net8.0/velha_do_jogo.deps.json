@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "velha_do_jogo/1.0.0": {
+        "runtime": {
+          "velha_do_jogo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "velha_do_jogo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

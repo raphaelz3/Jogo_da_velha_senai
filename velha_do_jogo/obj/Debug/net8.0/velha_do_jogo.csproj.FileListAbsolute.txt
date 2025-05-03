@@ -1,0 +1,14 @@
+C:\Users\FIC\Desktop\AulasCSharp\velha_do_jogo\velha_do_jogo\bin\Debug\net8.0\velha_do_jogo.exe
+C:\Users\FIC\Desktop\AulasCSharp\velha_do_jogo\velha_do_jogo\bin\Debug\net8.0\velha_do_jogo.deps.json
+C:\Users\FIC\Desktop\AulasCSharp\velha_do_jogo\velha_do_jogo\bin\Debug\net8.0\velha_do_jogo.runtimeconfig.json
+C:\Users\FIC\Desktop\AulasCSharp\velha_do_jogo\velha_do_jogo\bin\Debug\net8.0\velha_do_jogo.dll
+C:\Users\FIC\Desktop\AulasCSharp\velha_do_jogo\velha_do_jogo\bin\Debug\net8.0\velha_do_jogo.pdb
+C:\Users\FIC\Desktop\AulasCSharp\velha_do_jogo\velha_do_jogo\obj\Debug\net8.0\velha_do_jogo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FIC\Desktop\AulasCSharp\velha_do_jogo\velha_do_jogo\obj\Debug\net8.0\velha_do_jogo.AssemblyInfoInputs.cache
+C:\Users\FIC\Desktop\AulasCSharp\velha_do_jogo\velha_do_jogo\obj\Debug\net8.0\velha_do_jogo.AssemblyInfo.cs
+C:\Users\FIC\Desktop\AulasCSharp\velha_do_jogo\velha_do_jogo\obj\Debug\net8.0\velha_do_jogo.csproj.CoreCompileInputs.cache
+C:\Users\FIC\Desktop\AulasCSharp\velha_do_jogo\velha_do_jogo\obj\Debug\net8.0\velha_do_jogo.dll
+C:\Users\FIC\Desktop\AulasCSharp\velha_do_jogo\velha_do_jogo\obj\Debug\net8.0\refint\velha_do_jogo.dll
+C:\Users\FIC\Desktop\AulasCSharp\velha_do_jogo\velha_do_jogo\obj\Debug\net8.0\velha_do_jogo.pdb
+C:\Users\FIC\Desktop\AulasCSharp\velha_do_jogo\velha_do_jogo\obj\Debug\net8.0\velha_do_jogo.genruntimeconfig.cache
+C:\Users\FIC\Desktop\AulasCSharp\velha_do_jogo\velha_do_jogo\obj\Debug\net8.0\ref\velha_do_jogo.dll
